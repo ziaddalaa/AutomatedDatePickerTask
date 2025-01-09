@@ -23,4 +23,8 @@ The project is suitable for:
 - Validation of selected date against expected results.
 - Easy-to-understand code structure with comments.
 
+---
+
+## 🎥 **Demo Recording**: [Watch the script in action](https://drive.google.com/file/d/1Z-VFvZzG2Nm6Id8p8BcDJSb60pHIpoEf/view?usp=sharing)
+
 
