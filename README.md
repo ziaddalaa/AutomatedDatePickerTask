@@ -6,10 +6,10 @@
 
 ## 📝 Project Description
 
-This project demonstrates an automated testing task that:
-- **Picks a date** on a web-based date picker.
-- **Asserts** that the selected date matches the expected value.
-- Utilizes **Java**, **Selenium WebDriver**, and **JUnit** for implementation and testing.
+This project automates interactions with the [Best Case Date Calculator](https://www.bestcase.com/date-calculator/) using **Java** and **Selenium WebDriver**. The automation:
+- Inputs a starting date.
+- Selects an offset (e.g., days, weeks, months).
+- Calculates and validates the resulting date based on the page's output.
 
 The project is suitable for:
 - Learning Selenium automation.
